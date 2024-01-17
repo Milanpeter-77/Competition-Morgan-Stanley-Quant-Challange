@@ -1,4 +1,4 @@
-# Morgan-Stanley-Quant-Challange
+# Competition - Morgan Stanley's Quant Challange
 Morgan Stanley's Quant Challenge Qualifier Competition
 
 ## About the competition
