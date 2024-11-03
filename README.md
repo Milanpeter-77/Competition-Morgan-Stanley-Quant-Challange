@@ -1,5 +1,4 @@
 # Competition - Morgan Stanley's Quant Challange
-Morgan Stanley's Quant Challenge Qualifier Competition
 
 ## About the competition
 Morgan Stanley’s Quant Challenge is a chance to experience first-hand how quantitative analytics teams work within a global investment bank.
